@@ -69,7 +69,17 @@ Pipeline are a sequence of data processing mechanisms.
 Pandas pipeline feature allows us to string together 
 various user-defined Python functions in order to build a pipeline of data processing
 
-
+### DEPLOYMENT 
+used python flask 
+postmamn is added to show end to end points 
+this is my body style
+{"name":"Audi A4 1.8","company": "Audi", "year": 2010, "kms_driven": 12000, "fuel_type": "Petrol"}
+prediction style
+{
+    "prediction": [
+        738551.2095113248
+    ]
+}
 
 
 
