@@ -70,11 +70,12 @@ Pandas pipeline feature allows us to string together
 various user-defined Python functions in order to build a pipeline of data processing
 
 ### DEPLOYMENT 
-used python flask 
-postmamn is added to show end to end points 
-this is my body style
+#### Post Url 
+http://127.0.0.1:8080/predict
+##### Example Response 
+* Body Response 
 {"name":"Audi A4 1.8","company": "Audi", "year": 2010, "kms_driven": 12000, "fuel_type": "Petrol"}
-prediction style
+* prediction 
 {
     "prediction": [
         738551.2095113248
